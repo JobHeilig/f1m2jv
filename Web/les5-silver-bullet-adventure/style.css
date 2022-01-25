@@ -1,9 +1,9 @@
 body{
-    background-color: aqua;
+    background-color: black;
 }
 
 #container{
-    background-color: aliceblue;
+    background-color: purple;
     width: 900px;
     height: 600px;
     margin: 50px auto auto auto;
@@ -14,4 +14,27 @@ body{
 
 #myInteraction{
     padding: 10px;
+}
+
+#mapImage {
+    margin-top: 20px;
+    max-width: 100%;
+    height: auto;
+}
+
+nav button {
+    background-color: green;
+    color: white;
+    font-size: 16px;
+    padding: 10px;
+}
+
+#knopNoord, #knopZuid {
+    display: block;
+    width: 300px;
+}
+
+#knopWest, #knopOost {
+    display: inline-block;
+    width: 150px;
 }
