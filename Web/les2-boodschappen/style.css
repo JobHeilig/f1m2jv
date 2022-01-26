@@ -3,7 +3,7 @@ body {
 }
 
 #koelkast {
-    background-color: white;
+    background-color: #FFFFFF;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
