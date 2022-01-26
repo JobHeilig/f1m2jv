@@ -17,11 +17,15 @@ section {
 }
 
 h2 {
-    margin: 0 0 10px 0; /* top right bottom left */
+    margin: 0 0 10px 0; 
 }
 
 .rood {
     color: red;
+}
+
+.groen {
+    color: green;
 }
 
 button {
